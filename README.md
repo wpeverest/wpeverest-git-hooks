@@ -32,7 +32,7 @@ composer run-script post-update-cmd
 
 ## Release history
 
-- 2017-06-26 - 1.0.0 - Initial release.
+- 2017-10-03 - 1.0.0 - Initial release.
 
 ## Sources
 
