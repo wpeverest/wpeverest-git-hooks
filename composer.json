@@ -1,0 +1,17 @@
+{
+  "name": "wpeverest/wpeverest-git-hooks",
+  "description": "WPEverest Git Hooks",
+  "type": "scripts",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Shiva Poudel",
+      "email": "dev.shivapoudel@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "WPEverest\\GitHooks\\": "src/"
+    }
+  }
+}
