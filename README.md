@@ -32,6 +32,7 @@ composer run-script post-update-cmd
 
 ## Release history
 
+- 2017-11-10 - 1.0.1 - Removed list of ignored directories.
 - 2017-10-03 - 1.0.0 - Initial release.
 
 ## Sources
